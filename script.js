@@ -16,3 +16,4 @@ console.log(result_even)
 console.log(result_odd)
 
 console.log("тест")
+console.log("тест")
