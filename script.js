@@ -14,3 +14,5 @@ for (let i = 1; i <= 10; i++)  {
 
 console.log(result_even)
 console.log(result_odd)
+
+console.log("тест")
